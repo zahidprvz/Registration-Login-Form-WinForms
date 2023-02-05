@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\bin\Debug\MyApplicationDB.exe.config
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\bin\Debug\MyApplicationDB.exe
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\bin\Debug\MyApplicationDB.pdb
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\obj\Debug\MyApplicationDB.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\obj\Debug\MyApplicationDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\obj\Debug\MyApplicationDB.Form1.resources
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\obj\Debug\MyApplicationDB.Properties.Resources.resources
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\obj\Debug\MyApplicationDB.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\obj\Debug\MyApplicationDB.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\obj\Debug\MyApplicationDB.exe
+C:\Users\Hp\source\repos\MyApplicationDB\MyApplicationDB\obj\Debug\MyApplicationDB.pdb
